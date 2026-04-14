@@ -1,36 +1,24 @@
 # caught-in-4k-uap
 # UFO / UAP Sightings Log — Google Sheets Project
 
-A beginner data analysis project built in Google Sheets using government-reported UFO/UAP incidents.
+This project analyzes government-reported UFO/UAP incidents using Google Sheets. The workbook includes raw data, cleaned data, analysis tables, charts, and a dashboard.
 
-## What this project does
-- cleans raw incident data
-- standardizes case status
-- creates credibility scoring
-- summarizes trends with formulas and pivot tables
-- presents findings with charts and a dashboard
-
-## Tools used
-- Google Sheets
-- formulas
-- filters
-- find and replace
+## Skills shown
+- data cleaning
+- standardization
+- formula logic
 - pivot tables
-- charts
+- chart building
+- dashboard design
 
-## Files
-- `UFO_UAP_Sightings_Log.xlsx` — full workbook
-- `images/` — screenshots of analysis and dashboard
-
-## Key questions
-- How many incidents are open vs resolved?
-- Which explanations appear most often?
-- Which cases have higher credibility?
-- How are incidents distributed by year?
+## Project structure
+- `1_Raw_Data`
+- `2_Cleaned_Data`
+- `3_Analysis`
+- `4_Visualizations`
+- `5_Dashboard`
+- `6_Sources`
 
 ## Sources
 - AARO Official UAP Cases
 - ODNI / DoD Annual UAP Report
-
-## Project preview
-![Dashboard](images/dashboard.png)
