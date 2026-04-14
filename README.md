@@ -12,13 +12,6 @@ This project analyzes government-reported UFO/UAP incidents using Google Sheets.
 - chart creation
 - dashboard design
 - 
-## Project structure
-- `1_Raw_Data`
-- `2_Cleaned_Data`
-- `3_Analysis`
-- `4_Visualizations`
-- `5_Dashboard`
-- `6_Sources`
 
 ## Project structure
 - `1_Raw_Data`
