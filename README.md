@@ -11,7 +11,7 @@ This project analyzes government-reported UFO/UAP incidents using Google Sheets.
 - pivot tables
 - chart creation
 - dashboard design
-- 
+
 
 ## Project structure
 - `1_Raw_Data`
@@ -25,7 +25,7 @@ This project analyzes government-reported UFO/UAP incidents using Google Sheets.
 - Which explanations appear most often?
 - Which cases have higher credibility?
 - How are incidents distributed by year?
-- 
+
 ## Sources
 - AARO Official UAP Cases
 - ODNI / DoD Annual UAP Report
