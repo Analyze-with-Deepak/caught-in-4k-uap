@@ -1,16 +1,17 @@
-# caught-in-4k-uap
-# UFO / UAP Sightings Log — Google Sheets Project
+# Caught-in-4k-uap — Google Sheets Project
 
 This project analyzes government-reported UFO/UAP incidents using Google Sheets. The workbook includes raw data, cleaned data, analysis tables, charts, and a dashboard.
-
-## Skills shown
+- 
+## Skills used
 - data cleaning
-- standardization
-- formula logic
+- filtering
+- find and replace
+- duplicate removal
+- formula building
 - pivot tables
-- chart building
+- chart creation
 - dashboard design
-
+- 
 ## Project structure
 - `1_Raw_Data`
 - `2_Cleaned_Data`
